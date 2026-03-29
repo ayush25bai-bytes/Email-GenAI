@@ -1,0 +1,20 @@
+FROM:    Ayush Raj Singh <Ayush@gmail.com>
+TO:      HR <HR.Infosys@gmail.com>
+CC:      MithunSA@gmail.com
+SUBJECT: Follow-up on Interview Call for [Position]
+
+────────────────────────────────────────
+
+Dear Hiring Manager/Human Resources Team:
+
+I am writing to follow up on our interview call that took place on [Date of Interview]. I wanted to express my continued interest in the [Position] role and inquire about the current status of my application. If there is any additional information I can provide to support my candidacy, please let me know.
+
+I would appreciate an update on the expected timeline for making a decision and if there are any next steps I should be preparing for. Please feel free to contact me if you require any further information or would like to schedule another call to discuss my application.
+
+Sincerely,
+Ayush
+
+--
+Ayush Raj Singh
+Email: Ayush@gmail.com
+Generated on: 2026-03-29 13:22
